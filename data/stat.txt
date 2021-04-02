@@ -1,0 +1,82 @@
+数据集部分特征统计：
+
+-> tabulation of race4
+Race/
+Ethnity     Freq.     Percent        Cum.
+White      14,962       69.85       69.85
+Black       2,336       10.91       80.76
+Asian         577        2.69       83.45
+Other/Mixed 3,544       16.55      100.00
+Total      21,419      100.00
+
+-> tabulation of race6
+Race/
+Ethnity     Freq.     Percent        Cum.
+White      14,962       69.85       69.85
+Black       2,336       10.91       80.76
+Asian         577        2.69       83.45
+AIAN/NHPI      31        0.14       83.60
+Others        780        3.64       87.24
+Mixed       2,733       12.76      100.00
+Total      21,419      100.00
+
+-> tabulation of hisp
+Hispanic    Freq.     Percent        Cum.
+No         17,614       82.31       82.31
+Yes         3,785       17.69      100.00
+Total      21,399      100.00
+
+-> tabulation of raceeth5
+Race/
+Ethnity(5lv)Freq.     Percent        Cum.
+White      12,604       59.06       59.06
+Black       2,209       10.35       69.41
+Hispanic    3,785       17.73       87.14
+Asian         545        2.55       89.70
+Other/Mixed 2,199       10.30      100.00
+Total      21,342      100.00
+
+-> tabulation of raceeth7
+Race/
+Ethnity(7lv)Freq.     Percent        Cum.
+White      12,604       59.06       59.06
+Black       2,209       10.35       69.41
+Hispanic    3,785       17.73       87.14
+Asian         545        2.55       89.70
+AIAN/NHPI      23        0.11       89.80
+Other/Mixed 2,176       10.20      100.00
+Total      21,342      100.00
+
+-> tabulation of hincome
+Household 
+income      Freq.     Percent        Cum.
+(-,50K)     4,470       22.12       22.12
+[50K, 100K) 6,063       30.00       52.12
+[100K, +)   9,677       47.88      100.00
+Total      20,210      100.00
+
+-> tabulation of pahighedu
+Parental_edu_lv  Freq.     Percent        Cum.
+< HS Diploma       543        2.51        2.51
+HS Diploma/GED   1,456        6.73        9.25
+Some College     4,667       21.59       30.83
+Bachelor         6,145       28.42       59.26
+PostGraduate     8,809       40.74      100.00
+Total           21,620      100.00
+
+-> tabulation of pamarital
+Parental marital
+status      Freq.     Percent        Cum.
+Not married 5,475       25.39       25.39
+Married    16,086       74.61      100.00
+Total      21,561      100.00
+
+-> tabulation of pamarital6 
+Parent Marital Status 
+(6 Categories)   Freq.     Percent        Cum.
+Married         16,086       74.61       74.61
+Widowed            140        0.65       75.26
+Divorced         1,823        8.46       83.71
+Separated          616        2.86       86.57
+Never married    1,880        8.72       95.29
+Live w\ partner  1,016        4.71      100.00
