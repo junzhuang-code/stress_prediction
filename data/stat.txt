@@ -1,4 +1,7 @@
-数据集部分特征统计：
+Put train.csv & test.csv under this directory.
+
+
+The stat of partial features:
 
 -> tabulation of race4
 Race/
