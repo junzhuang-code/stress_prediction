@@ -5,7 +5,8 @@
 
 
 ### 0. About The Project
-In this competition, I employ several machine learning models to predict the stress level based on the survey data. The prediction is evaluated by RMSE (The smaller, the better).
+In this competition, I employ several machine learning models to predict the stress level based on the survey data. The prediction is evaluated by RMSE (The smaller, the better). By the end, my submission obtains 3rd place on the private leaderboard.   
+![image](https://github.com/junzhuang-code/stress_prediction/blob/main/data/ranking.png)
 
 
 ### 1. Dataset
